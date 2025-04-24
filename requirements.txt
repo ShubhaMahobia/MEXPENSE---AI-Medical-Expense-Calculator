@@ -1,1 +1,8 @@
 uv
+ipykernel
+pandas
+plotly
+matplotlib
+seaborn
+numpy
+scikit-learn
